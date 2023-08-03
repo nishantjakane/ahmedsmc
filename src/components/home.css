@@ -1,0 +1,31 @@
+span{
+    color: white;
+}
+
+
+
+.whyUsText{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.whyUsHeading{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Courses */
+.secondaryColor{
+    background-color: #131725;
+}
+
+.courseBtn{
+    background-color: #5a6daa;
+}
+
+.pricingBorder{
+    border: #5a6daa solid 6px;
+}
+
+.borderNeon{
+    border:  #089981 solid 6px;
+}
