@@ -26,7 +26,7 @@ function Header(){
                         <NavLink to="/about-me">About</NavLink>
                     </li>
                     <li id="navLink">
-                        <NavLink to="/courses">Courses</NavLink>
+                        <NavLink to="/courses">Services</NavLink>
                     </li>
                     <li id="navLink">
                         <NavLink to="/psychology">Psychology</NavLink>

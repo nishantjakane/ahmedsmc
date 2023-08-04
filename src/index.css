@@ -31,8 +31,17 @@ code {
 
 .secondaryColor{
   background-color: #131725;
+
+}
+
+.bgColor{
+  background-color: #0e111b;
 }
 
 #footer{
   background-color: #131725;
+}
+
+.signalsBtn{
+  background-color: #5a6daa;
 }
