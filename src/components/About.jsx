@@ -1,6 +1,7 @@
 import Footer from "./Footer";
 import Header from "./Header";
 import Signals from "./Signals";
+import "./about.css"
 
 function About(){
     return(
@@ -22,7 +23,7 @@ function About(){
             </p>
         </div>
                 <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-                <img src="./assets/aboutImg.png" alt="mockup"></img>
+                <img src="./assets/aboutImg.png" alt="mockup" className="aboutImg"></img>
             </div>                
             </div>
             </section>
