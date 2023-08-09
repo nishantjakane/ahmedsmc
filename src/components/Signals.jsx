@@ -10,7 +10,7 @@ function Signals(){
           Crafted with skill and care to help our clients grow their business!
         </p>
         <div className="py-10">
-        <button  type="button" class="signalsBtn text-white focus:ring-4 focus:ring-blue-300 
+        <button  type="button" class="accentColor text-white focus:ring-4 focus:ring-blue-300 
         font-medium rounded-lg text-sm px-10 py-4 mr-2 mb-2 glowBtn montFont">Get Signals</button>
         </div>
 
