@@ -13,7 +13,7 @@ function Courses(){
     <article class="rounded-xl primaryColor p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
       <a href="#">
         <div class="relative flex items-end overflow-hidden rounded-xl">
-          <img src="/assets/courses1.png" alt="Courses" />
+          <img src="./assets/courses1.png" alt="Courses" />
         </div>
 
         <div class="mt-1 p-2">
