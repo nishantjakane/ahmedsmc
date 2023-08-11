@@ -13,7 +13,7 @@ function Header(){
     return(<header>
     <div className='z-10'>
         <nav>
-        <a href="/">
+        <a href="/ahmedsmc">
             <div class="logo">
                 <h1 className="textLogo">
                     <img src="./assets/logo.png" alt="" /> AHMED_SMC
