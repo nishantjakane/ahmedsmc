@@ -7,7 +7,8 @@ function Courses(){
     return(
         <div>
             <Header/>
-    <section class="py-10 bgColor justify-center">
+            <CoursesHome/>
+            <section class="py-10 bgColor justify-center">
 	<h1 class="mb-8 text-center lg:text-4xl font-bold text-white whyUsHeading text-2xl py-6">What we offer?</h1>
   <div class="mx-auto grid max-w-6xl  grid-cols-1 gap-6 p-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 justify-center">
     <article class="rounded-xl primaryColor p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
@@ -108,7 +109,6 @@ function Courses(){
     </article>
     </div>
 </section>
-            <CoursesHome/>
             <Footer/>
         </div>
     )
