@@ -52,6 +52,21 @@ function Psychology(){
           </p>
           </article>
           </div>
+          <div class="max-w-2xl mx-auto text-center pt-10">
+        <h2 class="text-3xl font-extrabold leading-tight tracking-tight text-white sm:text-4xl dark:text-white montFont pt-16">
+          Get more detail on psychology under my close
+        </h2>
+        <p class="mt-4 text-base font-normal text-gray-500 sm:text-xl dark:text-gray-400 montFont">
+          Crafted with skill and care to help our clients grow their account!
+        </p>
+        <div className="py-10">
+        <a href="/ahmedsmc/#/courses" class="heroBtn px-5 py-4 lg:text-xl lg:font-normal inline-flex items-center justify-center lg:px-10 lg:py-5 mr-3 text-base font-medium text-center text-white rounded-lg primaryColor">
+                Courses
+                <svg class="w-5 h-5 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
+            </a>
+        </div>
+
+      </div>
           </main>
             <Footer/>
         </div>
