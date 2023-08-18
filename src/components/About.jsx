@@ -23,7 +23,7 @@ function About(){
             </p>
         </div>
                 <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-                <img src="./assets/aboutImg.png" alt="mockup" className="aboutImg"></img>
+                <img src="./assets/aboutImg2.png" alt="mockup" className="aboutImg"></img>
             </div>                
             </div>
             </section>
