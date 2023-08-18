@@ -17,8 +17,8 @@ function HeroSection(){
                 Testimonials
             </a>
         </div>
-        <div class="hidden lg:mt-0 lg:col-span-5 lg:flex heroImg">
-            <img src="./assets/heroImg2.png" alt="Trading img" className=""></img>
+        <div class="visible lg:mt-0 lg:col-span-5 lg:flex heroImg">
+            <img src="./assets/heroImg2.png" alt="Trading img" className="visible"></img>
         </div>                
     </div>
 </section>
