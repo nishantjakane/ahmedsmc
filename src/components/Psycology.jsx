@@ -15,7 +15,7 @@ function Psychology(){
               </address>
               <h1 class="mb-4 text-3xl font-extrabold leading-tight text-white lg:mb-6 lg:text-4xl dark:text-white montFont text-center">Unveiling the Psychology Behind Successful Forex Strategies</h1>
           </header>
-          <ul class="max-w-4xl space-y-1 text-gray-500 list-disc list-inside dark:text-gray-400">
+          <ul class="max-w-4xl space-y-1 text-white list-disc list-inside dark:text-gray-400">
     <li className="montFont">
     Trading psychology is super important for traders to succeed. The financial markets are impacted by many things, including human emotions. Emotions like fear, greed, hope, and overconfidence can really mess up trading decisions and make traders lose money. To avoid this, traders need to learn how to manage their emotions and stay disciplined.
     </li>

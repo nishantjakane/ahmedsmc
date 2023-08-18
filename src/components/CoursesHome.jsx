@@ -6,8 +6,8 @@ function CoursesHome(){
             <section class="courses">
   <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
       <div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
-          <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-white dark:text-white montFont">Service we offer</h2>
-          <p class="mb-5 font-light text-gray-500 sm:text-xl dark:text-gray-400 montFont">Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.</p>
+          <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-white dark:text-white montFont mainHeading">Service we offer</h2>
+          <p class="mb-5 font-light text-gray-500 sm:text-xl dark:text-gray-400 montFont text-white">Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.</p>
       </div>
       <div class="space-y-8 lg:grid lg:grid-cols-3 sm:gap-6 xl:gap-10 lg:space-y-0 ">
           <div class="flex flex-col p-6 mx-auto max-w-lg text-center text-white secondaryColor rounded-lg border border-gray-800 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white borderNeon">
