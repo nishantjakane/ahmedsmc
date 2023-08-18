@@ -13,7 +13,7 @@ function Disclamer(){
                   <div class="inline-flex items-center mr-3 text-sm text-white dark:text-white">
                   </div>
               </address>
-              <h1 class="mb-4 text-3xl font-extrabold leading-tight text-white lg:mb-6 lg:text-4xl dark:text-white montFont text-center">Risk Disclaimer</h1>
+              <h1 class="mb-4 text-3xl font-extrabold leading-tight text-white lg:mb-6 lg:text-4xl dark:text-white montFont text-center mainHeading">Risk Disclaimer</h1>
           </header>
 
           <p class="lead text-white text-center montFont">

@@ -6,8 +6,8 @@ function ContactMe(){
             <Header/>
             <section class="bgColor dark:bg-gray-900">
   <div class="py-8 lg:py-16 px-4 mx-auto max-w-screen-md">
-      <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-center text-white dark:text-white montFont">Contact Us</h2>
-      <p class="mb-8 lg:mb-16 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl montFont">Got any queries? Want to send feedback about a feature? Need details about our Business plan? Let us know.</p>
+      <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-center text-white dark:text-white montFont mainHeading">Contact Us</h2>
+      <p class="mb-8 lg:mb-16 font-light text-center text-white dark:text-gray-400 sm:text-xl montFont">Got any queries? Want to send feedback about a feature? Need details about our Business plan? Let us know.</p>
       <form   action="https://formspree.io/f/xnqkpvro" method="POST" class="space-y-8 ">
           <div className="">
               <label htmlFor="email" for="email" class="block mb-2 text-sm font-medium text-white dark:text-gray-300 montFont">Your email</label>

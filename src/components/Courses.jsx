@@ -9,7 +9,7 @@ function Courses(){
             <Header/>
             <CoursesHome/>
             <section class="py-10 bgColor justify-center">
-	<h1 class="mb-8 text-center lg:text-4xl font-bold text-white whyUsHeading text-2xl py-6 mainHeading">What we offer?</h1>
+	<h1 class="mb-8 text-center lg:text-4xl font-bold text-white whyUsHeading text-2xl py-6 mainHeading">We also offer 1:1 mentorship</h1>
   <div class="mx-auto grid max-w-6xl  grid-cols-1 gap-6 p-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 justify-center">
     <article class="rounded-xl primaryColor p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
       <a href="#">
@@ -83,7 +83,7 @@ function Courses(){
         </div>
       </a>
     </article>
-    <article class="rounded-xl primaryColor p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
+    {/* <article class="rounded-xl primaryColor p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
       <a href="#">
         <div class="relative flex items-end overflow-hidden rounded-xl">
           <img src="./assets/courses3.png" alt="Banner" />
@@ -106,7 +106,7 @@ function Courses(){
           </div>
         </div>
       </a>
-    </article>
+    </article> */}
     </div>
 </section>
             <Footer/>

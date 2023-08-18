@@ -13,7 +13,7 @@ function Psychology(){
                   <div class="inline-flex items-center mr-3 text-sm text-white dark:text-white">
                   </div>
               </address>
-              <h1 class="mb-4 text-3xl font-extrabold leading-tight text-white lg:mb-6 lg:text-4xl dark:text-white montFont text-center">Unveiling the Psychology Behind Successful Forex Strategies</h1>
+              <h1 class="mb-4 text-3xl font-extrabold leading-tight text-white lg:mb-6 lg:text-4xl dark:text-white montFont text-center mainHeading">Unveiling the Psychology Behind Successful Forex Strategies</h1>
           </header>
           <ul class="max-w-4xl space-y-1 text-white list-disc list-inside dark:text-gray-400">
     <li className="montFont">
@@ -53,7 +53,7 @@ function Psychology(){
           </article>
           </div>
           <div class="max-w-2xl mx-auto text-center pt-10">
-        <h2 class="text-3xl font-extrabold leading-tight tracking-tight text-white sm:text-4xl dark:text-white montFont pt-16">
+        <h2 class="text-3xl font-extrabold leading-tight tracking-tight text-white sm:text-4xl dark:text-white montFont pt-16 mainHeading">
           Get more detail on psychology under my close
         </h2>
         <p class="mt-4 text-base font-normal text-gray-500 sm:text-xl dark:text-gray-400 montFont">
