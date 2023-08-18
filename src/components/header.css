@@ -38,7 +38,8 @@ nav a h1{
 
 #navbar li a:hover , 
 #navbar li a.active{
-    color: gray;
+    color: cornflowerblue;
+    font-weight: bold;
 }
 
 .textLogo {
